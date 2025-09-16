@@ -7,7 +7,7 @@ Backend Engineer | Problem Solver
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nada-shaban)  
 - 🧩 [LeetCode](https://leetcode.com/NaDa_991/)  
-- 📧 [Email](mailto:nadashaban971@gmail.com)  
+- 📧 (nadashaban971@gmail.com)  
 
 ---
 
