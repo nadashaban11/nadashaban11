@@ -1,5 +1,5 @@
 ## Nada Shaban  
-Backend Developer | Problem Solver   
+Backend Developer   
 
 ---
 
