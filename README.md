@@ -1,7 +1,5 @@
 ## Nada Shaban  
-Backend Developer   
-
----
+Backend & Systems Engineering Enthusiast
 
 ##  Let's Connect  
 
